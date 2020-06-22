@@ -1,5 +1,5 @@
 bl_info = {
-        "name":         "Fbx Animation Splitter for Xenko",
+        "name":         "Fbx Animation Splitter for Stride3D Engine",
         "category":     "Import-Export",
         "version":      (0,0,2),
         "blender":      (2,80,0),
